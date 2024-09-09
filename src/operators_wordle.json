@@ -1,0 +1,4412 @@
+{
+  "char_500_noirc": {
+    "name": "Noir Corne",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": "action4"
+    },
+    "rarity": 2,
+    "cost": [14, 14],
+    "gender": "Male",
+    "race": "Oni",
+    "infection": true,
+    "profession": "TANK"
+  },
+  "char_193_frostl": {
+    "name": "Frostleaf",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [16, 18],
+    "gender": "Female",
+    "race": "Vulpo",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_501_durin": {
+    "name": "Durin",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": "action4"
+    },
+    "rarity": 2,
+    "cost": [12, 12],
+    "gender": "Female",
+    "race": "Durin",
+    "infection": false,
+    "profession": "CASTER"
+  },
+  "char_502_nblade": {
+    "name": "Yato",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": "action4"
+    },
+    "rarity": 2,
+    "cost": [7, 7],
+    "gender": "Female",
+    "race": "Oni",
+    "infection": true,
+    "profession": "PIONEER"
+  },
+  "char_503_rang": {
+    "name": "Rangers",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": "action4"
+    },
+    "rarity": 2,
+    "cost": [7, 7],
+    "gender": "Male",
+    "race": "Savra",
+    "infection": false,
+    "profession": "SNIPER"
+  },
+  "char_122_beagle": {
+    "name": "Beagle",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": "reserve1"
+    },
+    "rarity": 3,
+    "cost": [16, 18],
+    "gender": "Female",
+    "race": "Perro",
+    "infection": true,
+    "profession": "TANK"
+  },
+  "char_123_fang": {
+    "name": "Fang",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": "reserve1"
+    },
+    "rarity": 3,
+    "cost": [9, 11],
+    "gender": "Female",
+    "race": "Kuranta",
+    "infection": true,
+    "profession": "PIONEER"
+  },
+  "char_124_kroos": {
+    "name": "Kroos",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": "reserve1"
+    },
+    "rarity": 3,
+    "cost": [9, 11],
+    "gender": "Female",
+    "race": "Cautus",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_121_lava": {
+    "name": "Lava",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": "reserve1"
+    },
+    "rarity": 3,
+    "cost": [27, 30],
+    "gender": "Female",
+    "race": "Sarkaz",
+    "infection": true,
+    "profession": "CASTER"
+  },
+  "char_120_hibisc": {
+    "name": "Hibiscus",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": "reserve1"
+    },
+    "rarity": 3,
+    "cost": [15, 17],
+    "gender": "Female",
+    "race": "Sarkaz",
+    "infection": true,
+    "profession": "MEDIC"
+  },
+  "char_208_melan": {
+    "name": "Melantha",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": "reserve4"
+    },
+    "rarity": 3,
+    "cost": [13, 15],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_209_ardign": {
+    "name": "Cardigan",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": "reserve4"
+    },
+    "rarity": 3,
+    "cost": [16, 18],
+    "gender": "Female",
+    "race": "Perro",
+    "infection": false,
+    "profession": "TANK"
+  },
+  "char_210_stward": {
+    "name": "Steward",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": "reserve4"
+    },
+    "rarity": 3,
+    "cost": [16, 18],
+    "gender": "Male",
+    "race": "Vulpo",
+    "infection": true,
+    "profession": "CASTER"
+  },
+  "char_211_adnach": {
+    "name": "Adnachiel",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": "reserve4"
+    },
+    "rarity": 3,
+    "cost": [9, 11],
+    "gender": "Male",
+    "race": "Sankta",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_212_ansel": {
+    "name": "Ansel",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": "reserve4"
+    },
+    "rarity": 3,
+    "cost": [15, 17],
+    "gender": "Male",
+    "race": "Cautus",
+    "infection": false,
+    "profession": "MEDIC"
+  },
+  "char_108_silent": {
+    "name": "Silence",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": "rhine",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [17, 19],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": true,
+    "profession": "MEDIC"
+  },
+  "char_134_ifrit": {
+    "name": "Ifrit",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": "rhine",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [31, 34],
+    "gender": "Female",
+    "race": "Sarkaz",
+    "infection": true,
+    "profession": "CASTER"
+  },
+  "char_202_demkni": {
+    "name": "Saria",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": "rhine",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [18, 22],
+    "gender": "Female",
+    "race": "Vouivre",
+    "infection": false,
+    "profession": "TANK"
+  },
+  "char_128_plosis": {
+    "name": "Ptilopsis",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": "rhine",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [15, 17],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": true,
+    "profession": "MEDIC"
+  },
+  "char_242_otter": {
+    "name": "Mayer",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": "rhine",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [9, 11],
+    "gender": "Female",
+    "race": "Anaty",
+    "infection": false,
+    "profession": "SUPPORT"
+  },
+  "char_215_mantic": {
+    "name": "Manticore",
+    "allegiance": {
+      "nationId": "sargon",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [18, 20],
+    "gender": "Female",
+    "race": "Manticore",
+    "infection": true,
+    "profession": "SPECIAL"
+  },
+  "char_149_scave": {
+    "name": "Scavenger",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": "sweep",
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [10, 12],
+    "gender": "Female",
+    "race": "Zalak",
+    "infection": true,
+    "profession": "PIONEER"
+  },
+  "char_204_platnm": {
+    "name": "Platinum",
+    "allegiance": {
+      "nationId": "kazimierz",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [11, 13],
+    "gender": "Female",
+    "race": "Kuranta",
+    "infection": false,
+    "profession": "SNIPER"
+  },
+  "char_172_svrash": {
+    "name": "SilverAsh",
+    "allegiance": {
+      "nationId": "kjerag",
+      "groupId": "karlan",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [18, 20],
+    "gender": "Male",
+    "race": "Feline",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_173_slchan": {
+    "name": "Cliffheart",
+    "allegiance": {
+      "nationId": "kjerag",
+      "groupId": "karlan",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [11, 13],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": true,
+    "profession": "SPECIAL"
+  },
+  "char_174_slbell": {
+    "name": "Pramanix",
+    "allegiance": {
+      "nationId": "kjerag",
+      "groupId": "karlan",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [10, 12],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": false,
+    "profession": "SUPPORT"
+  },
+  "char_198_blackd": {
+    "name": "Courier",
+    "allegiance": {
+      "nationId": "kjerag",
+      "groupId": "karlan",
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [10, 12],
+    "gender": "Male",
+    "race": "Itra",
+    "infection": false,
+    "profession": "PIONEER"
+  },
+  "char_199_yak": {
+    "name": "Matterhorn",
+    "allegiance": {
+      "nationId": "kjerag",
+      "groupId": "karlan",
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [17, 21],
+    "gender": "Male",
+    "race": "Forte",
+    "infection": false,
+    "profession": "TANK"
+  },
+  "char_219_meteo": {
+    "name": "Meteorite",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [24, 28],
+    "gender": "Female",
+    "race": "Sarkaz",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_158_milu": {
+    "name": "Firewatch",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [19, 21],
+    "gender": "Female",
+    "race": "Elafia",
+    "infection": false,
+    "profession": "SNIPER"
+  },
+  "char_115_headbr": {
+    "name": "Zima",
+    "allegiance": {
+      "nationId": "ursus",
+      "groupId": null,
+      "teamId": "student"
+    },
+    "rarity": 5,
+    "cost": [11, 13],
+    "gender": "Female",
+    "race": "Ursus",
+    "infection": false,
+    "profession": "PIONEER"
+  },
+  "char_195_glassb": {
+    "name": "Istina",
+    "allegiance": {
+      "nationId": "ursus",
+      "groupId": null,
+      "teamId": "student"
+    },
+    "rarity": 5,
+    "cost": [13, 15],
+    "gender": "Female",
+    "race": "Ursus",
+    "infection": false,
+    "profession": "SUPPORT"
+  },
+  "char_196_sunbr": {
+    "name": "Gummy",
+    "allegiance": {
+      "nationId": "ursus",
+      "groupId": null,
+      "teamId": "student"
+    },
+    "rarity": 4,
+    "cost": [16, 20],
+    "gender": "Female",
+    "race": "Ursus",
+    "infection": false,
+    "profession": "TANK"
+  },
+  "char_147_shining": {
+    "name": "Shining",
+    "allegiance": {
+      "nationId": null,
+      "groupId": null,
+      "teamId": "followers"
+    },
+    "rarity": 6,
+    "cost": [18, 20],
+    "gender": "Female",
+    "race": "Sarkaz",
+    "infection": false,
+    "profession": "MEDIC"
+  },
+  "char_148_nearl": {
+    "name": "Nearl",
+    "allegiance": {
+      "nationId": null,
+      "groupId": null,
+      "teamId": "followers"
+    },
+    "rarity": 5,
+    "cost": [17, 21],
+    "gender": "Female",
+    "race": "Kuranta",
+    "infection": true,
+    "profession": "TANK"
+  },
+  "char_179_cgbird": {
+    "name": "Nightingale",
+    "allegiance": {
+      "nationId": null,
+      "groupId": null,
+      "teamId": "followers"
+    },
+    "rarity": 6,
+    "cost": [16, 18],
+    "gender": "Female",
+    "race": "Sarkaz",
+    "infection": true,
+    "profession": "MEDIC"
+  },
+  "char_112_siege": {
+    "name": "Siege",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": "glasgow",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [12, 14],
+    "gender": "Female",
+    "race": "Aslan",
+    "infection": false,
+    "profession": "PIONEER"
+  },
+  "char_155_tiger": {
+    "name": "Indra",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": "glasgow",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [8, 10],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_101_sora": {
+    "name": "Sora",
+    "allegiance": {
+      "nationId": "lungmen",
+      "groupId": "penguin",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [5, 7],
+    "gender": "Female",
+    "race": "Unknown",
+    "infection": false,
+    "profession": "SUPPORT"
+  },
+  "char_102_texas": {
+    "name": "Texas",
+    "allegiance": {
+      "nationId": "lungmen",
+      "groupId": "penguin",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [11, 13],
+    "gender": "Female",
+    "race": "Lupo",
+    "infection": false,
+    "profession": "PIONEER"
+  },
+  "char_103_angel": {
+    "name": "Exusiai",
+    "allegiance": {
+      "nationId": "lungmen",
+      "groupId": "penguin",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [12, 14],
+    "gender": "Female",
+    "race": "Sankta",
+    "infection": false,
+    "profession": "SNIPER"
+  },
+  "char_201_moeshd": {
+    "name": "Croissant",
+    "allegiance": {
+      "nationId": "lungmen",
+      "groupId": "penguin",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [18, 22],
+    "gender": "Female",
+    "race": "Forte",
+    "infection": false,
+    "profession": "TANK"
+  },
+  "char_118_yuki": {
+    "name": "Shirayuki",
+    "allegiance": {
+      "nationId": "higashi",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [23, 27],
+    "gender": "Female",
+    "race": "Anaty",
+    "infection": false,
+    "profession": "SNIPER"
+  },
+  "char_136_hsguma": {
+    "name": "Hoshiguma",
+    "allegiance": {
+      "nationId": "lungmen",
+      "groupId": "lgd",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [19, 23],
+    "gender": "Female",
+    "race": "Oni",
+    "infection": false,
+    "profession": "TANK"
+  },
+  "char_106_franka": {
+    "name": "Franka",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": "blacksteel",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [16, 18],
+    "gender": "Female",
+    "race": "Vulpo",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_107_liskam": {
+    "name": "Liskarm",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": "blacksteel",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [18, 22],
+    "gender": "Female",
+    "race": "Vouivre",
+    "infection": false,
+    "profession": "TANK"
+  },
+  "char_117_myrrh": {
+    "name": "Myrrh",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [16, 18],
+    "gender": "Female",
+    "race": "Vulpo",
+    "infection": false,
+    "profession": "MEDIC"
+  },
+  "char_129_bluep": {
+    "name": "Blue Poison",
+    "allegiance": {
+      "nationId": "iberia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [11, 13],
+    "gender": "Female",
+    "race": "Anura",
+    "infection": false,
+    "profession": "SNIPER"
+  },
+  "char_143_ghost": {
+    "name": "Specter",
+    "allegiance": {
+      "nationId": "egir",
+      "groupId": "abyssal",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [19, 23],
+    "gender": "Female",
+    "race": "Unknown",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_181_flower": {
+    "name": "Perfumer",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [14, 16],
+    "gender": "Female",
+    "race": "Vulpo",
+    "infection": true,
+    "profession": "MEDIC"
+  },
+  "char_109_fmout": {
+    "name": "Gitano",
+    "allegiance": {
+      "nationId": "sami",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [29, 32],
+    "gender": "Female",
+    "race": "Elafia",
+    "infection": true,
+    "profession": "CASTER"
+  },
+  "char_126_shotst": {
+    "name": "Meteor",
+    "allegiance": {
+      "nationId": "kazimierz",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [10, 12],
+    "gender": "Female",
+    "race": "Kuranta",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_127_estell": {
+    "name": "Estelle",
+    "allegiance": {
+      "nationId": "sargon",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [18, 22],
+    "gender": "Female",
+    "race": "Archosauria",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_141_nights": {
+    "name": "Haze",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [17, 19],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": true,
+    "profession": "CASTER"
+  },
+  "char_145_prove": {
+    "name": "Provence",
+    "allegiance": {
+      "nationId": "siracusa",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [15, 19],
+    "gender": "Female",
+    "race": "Lupo",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_183_skgoat": {
+    "name": "Earthspirit",
+    "allegiance": {
+      "nationId": "leithanien",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [12, 14],
+    "gender": "Female",
+    "race": "Caprinae",
+    "infection": true,
+    "profession": "SUPPORT"
+  },
+  "char_187_ccheal": {
+    "name": "Gavial",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [16, 18],
+    "gender": "Female",
+    "race": "Archosauria",
+    "infection": true,
+    "profession": "MEDIC"
+  },
+  "char_241_panda": {
+    "name": "FEater",
+    "allegiance": {
+      "nationId": "lungmen",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [18, 20],
+    "gender": "Female",
+    "race": "Ursus",
+    "infection": true,
+    "profession": "SPECIAL"
+  },
+  "char_180_amgoat": {
+    "name": "Eyjafjalla",
+    "allegiance": {
+      "nationId": "leithanien",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [19, 21],
+    "gender": "Female",
+    "race": "Caprinae",
+    "infection": true,
+    "profession": "CASTER"
+  },
+  "char_185_frncat": {
+    "name": "Mousse",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [18, 20],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_150_snakek": {
+    "name": "Cuora",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [17, 21],
+    "gender": "Female",
+    "race": "Petram",
+    "infection": true,
+    "profession": "TANK"
+  },
+  "char_130_doberm": {
+    "name": "Dobermann",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [13, 15],
+    "gender": "Female",
+    "race": "Perro",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_163_hpsts": {
+    "name": "Vulcan",
+    "allegiance": {
+      "nationId": "minos",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [31, 35],
+    "gender": "Female",
+    "race": "Forte",
+    "infection": true,
+    "profession": "TANK"
+  },
+  "char_144_red": {
+    "name": "Projekt Red",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": "sweep",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [7, 9],
+    "gender": "Female",
+    "race": "Lupo",
+    "infection": false,
+    "profession": "SPECIAL"
+  },
+  "char_140_whitew": {
+    "name": "Lappland",
+    "allegiance": {
+      "nationId": "siracusa",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [17, 19],
+    "gender": "Female",
+    "race": "Lupo",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_171_bldsk": {
+    "name": "Warfarin",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [17, 19],
+    "gender": "Female",
+    "race": "Sarkaz",
+    "infection": false,
+    "profession": "MEDIC"
+  },
+  "char_002_amiya": {
+    "name": "Amiya",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [18, 20],
+    "gender": "Female",
+    "race": "Cautus/Chimera",
+    "infection": true,
+    "profession": "CASTER"
+  },
+  "char_110_deepcl": {
+    "name": "Deepcolor",
+    "allegiance": {
+      "nationId": "egir",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [8, 10],
+    "gender": "Female",
+    "race": "Unknown",
+    "infection": false,
+    "profession": "SUPPORT"
+  },
+  "char_166_skfire": {
+    "name": "Skyfire",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [30, 33],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": false,
+    "profession": "CASTER"
+  },
+  "char_240_wyvern": {
+    "name": "Vanilla",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": "blacksteel",
+      "teamId": null
+    },
+    "rarity": 3,
+    "cost": [9, 11],
+    "gender": "Female",
+    "race": "Vouivre",
+    "infection": false,
+    "profession": "PIONEER"
+  },
+  "char_236_rope": {
+    "name": "Rope",
+    "allegiance": {
+      "nationId": "lungmen",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [10, 12],
+    "gender": "Female",
+    "race": "Cautus",
+    "infection": true,
+    "profession": "SPECIAL"
+  },
+  "char_237_gravel": {
+    "name": "Gravel",
+    "allegiance": {
+      "nationId": "kazimierz",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [6, 8],
+    "gender": "Female",
+    "race": "Zalak",
+    "infection": false,
+    "profession": "SPECIAL"
+  },
+  "char_286_cast3": {
+    "name": "Castle-3",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 1,
+    "cost": [3, 3],
+    "gender": "Male",
+    "race": "Robot",
+    "infection": null,
+    "profession": "WARRIOR"
+  },
+  "char_285_medic2": {
+    "name": "Lancet-2",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 1,
+    "cost": [3, 3],
+    "gender": "Female",
+    "race": "Robot",
+    "infection": null,
+    "profession": "MEDIC"
+  },
+  "char_009_12fce": {
+    "name": "12F",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 2,
+    "cost": [24, 24],
+    "gender": "Male",
+    "race": "Savra",
+    "infection": false,
+    "profession": "CASTER"
+  },
+  "char_278_orchid": {
+    "name": "Orchid",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": "reserve6"
+    },
+    "rarity": 3,
+    "cost": [10, 12],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": true,
+    "profession": "SUPPORT"
+  },
+  "char_235_jesica": {
+    "name": "Jessica",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": "blacksteel",
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [10, 12],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": false,
+    "profession": "SNIPER"
+  },
+  "char_290_vigna": {
+    "name": "Vigna",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [9, 11],
+    "gender": "Female",
+    "race": "Sarkaz",
+    "infection": true,
+    "profession": "PIONEER"
+  },
+  "char_289_gyuki": {
+    "name": "Matoimaru",
+    "allegiance": {
+      "nationId": "higashi",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [15, 17],
+    "gender": "Female",
+    "race": "Oni",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_277_sqrrel": {
+    "name": "Shaw",
+    "allegiance": {
+      "nationId": "lungmen",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [17, 19],
+    "gender": "Female",
+    "race": "Zalak",
+    "infection": false,
+    "profession": "SPECIAL"
+  },
+  "char_291_aglina": {
+    "name": "Angelina",
+    "allegiance": {
+      "nationId": "siracusa",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [14, 16],
+    "gender": "Female",
+    "race": "Vulpo",
+    "infection": true,
+    "profession": "SUPPORT"
+  },
+  "char_192_falco": {
+    "name": "Plume",
+    "allegiance": {
+      "nationId": "laterano",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 3,
+    "cost": [8, 10],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": false,
+    "profession": "PIONEER"
+  },
+  "char_230_savage": {
+    "name": "Savage",
+    "allegiance": {
+      "nationId": "rim",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [18, 22],
+    "gender": "Female",
+    "race": "Cautus",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_282_catap": {
+    "name": "Catapult",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": "reserve6"
+    },
+    "rarity": 3,
+    "cost": [21, 23],
+    "gender": "Female",
+    "race": "Kuranta",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_283_midn": {
+    "name": "Midnight",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": "reserve6"
+    },
+    "rarity": 3,
+    "cost": [14, 16],
+    "gender": "Male",
+    "race": "Sarkaz",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_137_brownb": {
+    "name": "Beehunter",
+    "allegiance": {
+      "nationId": "ursus",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [7, 9],
+    "gender": "Female",
+    "race": "Ursus",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_164_nightm": {
+    "name": "Nightmare",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [18, 20],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": true,
+    "profession": "CASTER"
+  },
+  "char_220_grani": {
+    "name": "Grani",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [12, 14],
+    "gender": "Female",
+    "race": "Kuranta",
+    "infection": false,
+    "profession": "PIONEER"
+  },
+  "char_263_skadi": {
+    "name": "Skadi",
+    "allegiance": {
+      "nationId": "egir",
+      "groupId": "abyssal",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [17, 19],
+    "gender": "Female",
+    "race": "Unknown",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_284_spot": {
+    "name": "Spot",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": "reserve6"
+    },
+    "rarity": 3,
+    "cost": [15, 17],
+    "gender": "Male",
+    "race": "Rebbah",
+    "infection": true,
+    "profession": "TANK"
+  },
+  "char_281_popka": {
+    "name": "Popukar",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": "reserve6"
+    },
+    "rarity": 3,
+    "cost": [17, 19],
+    "gender": "Female",
+    "race": "Cautus",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_308_swire": {
+    "name": "Swire",
+    "allegiance": {
+      "nationId": "lungmen",
+      "groupId": "lgd",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [14, 16],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_253_greyy": {
+    "name": "Greyy",
+    "allegiance": {
+      "nationId": "bolivar",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [29, 32],
+    "gender": "Male",
+    "race": "Perro",
+    "infection": true,
+    "profession": "CASTER"
+  },
+  "char_010_chen": {
+    "name": "Ch'en",
+    "allegiance": {
+      "nationId": "lungmen",
+      "groupId": "lgd",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [19, 23],
+    "gender": "Female",
+    "race": "Lung",
+    "infection": null,
+    "profession": "WARRIOR"
+  },
+  "char_298_susuro": {
+    "name": "Sussurro",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [16, 18],
+    "gender": "Female",
+    "race": "Vulpo",
+    "infection": true,
+    "profession": "MEDIC"
+  },
+  "char_151_myrtle": {
+    "name": "Myrtle",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [8, 10],
+    "gender": "Female",
+    "race": "Durin",
+    "infection": false,
+    "profession": "PIONEER"
+  },
+  "char_274_astesi": {
+    "name": "Astesia",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [19, 21],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_326_glacus": {
+    "name": "Glaucus",
+    "allegiance": {
+      "nationId": "iberia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [13, 15],
+    "gender": "Female",
+    "race": "Unknown",
+    "infection": false,
+    "profession": "SUPPORT"
+  },
+  "char_348_ceylon": {
+    "name": "Ceylon",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": "siesta",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [20, 22],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": false,
+    "profession": "MEDIC"
+  },
+  "char_340_shwaz": {
+    "name": "Schwarz",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": "siesta",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [16, 20],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_188_helage": {
+    "name": "Hellagur",
+    "allegiance": {
+      "nationId": "ursus",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [22, 26],
+    "gender": "Male",
+    "race": "Liberi",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_260_durnar": {
+    "name": "Dur-nar",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [20, 24],
+    "gender": "Female",
+    "race": "Vulpo",
+    "infection": false,
+    "profession": "TANK"
+  },
+  "char_355_ethan": {
+    "name": "Ethan",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [17, 19],
+    "gender": "Male",
+    "race": "Savra",
+    "infection": true,
+    "profession": "SPECIAL"
+  },
+  "char_275_breeze": {
+    "name": "Breeze",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [15, 17],
+    "gender": "Female",
+    "race": "Vulpo",
+    "infection": true,
+    "profession": "MEDIC"
+  },
+  "char_248_mgllan": {
+    "name": "Magallan",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": "rhine",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [10, 12],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": false,
+    "profession": "SUPPORT"
+  },
+  "char_131_flameb": {
+    "name": "Flamebringer",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [18, 20],
+    "gender": "Male",
+    "race": "Sarkaz",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_279_excu": {
+    "name": "Executor",
+    "allegiance": {
+      "nationId": "laterano",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [28, 31],
+    "gender": "Male",
+    "race": "Sankta",
+    "infection": false,
+    "profession": "SNIPER"
+  },
+  "char_190_clour": {
+    "name": "Vermeil",
+    "allegiance": {
+      "nationId": "siracusa",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [10, 12],
+    "gender": "Female",
+    "race": "Vulpo",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_213_mostma": {
+    "name": "Mostima",
+    "allegiance": {
+      "nationId": "laterano",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [31, 34],
+    "gender": "Female",
+    "race": "Unknown",
+    "infection": false,
+    "profession": "CASTER"
+  },
+  "char_325_bison": {
+    "name": "Bison",
+    "allegiance": {
+      "nationId": "lungmen",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [20, 24],
+    "gender": "Male",
+    "race": "Forte",
+    "infection": false,
+    "profession": "TANK"
+  },
+  "char_243_waaifu": {
+    "name": "Waai Fu",
+    "allegiance": {
+      "nationId": "lungmen",
+      "groupId": null,
+      "teamId": "lee"
+    },
+    "rarity": 5,
+    "cost": [7, 9],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": false,
+    "profession": "SPECIAL"
+  },
+  "char_133_mm": {
+    "name": "May",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [10, 12],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": false,
+    "profession": "SNIPER"
+  },
+  "char_356_broca": {
+    "name": "Broca",
+    "allegiance": {
+      "nationId": "siracusa",
+      "groupId": null,
+      "teamId": "chiave"
+    },
+    "rarity": 5,
+    "cost": [19, 23],
+    "gender": "Male",
+    "race": "Feline",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_261_sddrag": {
+    "name": "Reed",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [10, 12],
+    "gender": "Female",
+    "race": "Draco",
+    "infection": true,
+    "profession": "PIONEER"
+  },
+  "char_017_huang": {
+    "name": "Blaze",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": "elite",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [20, 24],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_367_swllow": {
+    "name": "GreyThroat",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [11, 13],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": false,
+    "profession": "SNIPER"
+  },
+  "char_302_glaze": {
+    "name": "Ambriel",
+    "allegiance": {
+      "nationId": "laterano",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [18, 20],
+    "gender": "Female",
+    "race": "Sankta",
+    "infection": false,
+    "profession": "SNIPER"
+  },
+  "char_2014_nian": {
+    "name": "Nian",
+    "allegiance": {
+      "nationId": "yan",
+      "groupId": "sui",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [19, 23],
+    "gender": "Female",
+    "race": "Unknown",
+    "infection": null,
+    "profession": "TANK"
+  },
+  "char_225_haak": {
+    "name": "Aak",
+    "allegiance": {
+      "nationId": "lungmen",
+      "groupId": null,
+      "teamId": "lee"
+    },
+    "rarity": 6,
+    "cost": [11, 13],
+    "gender": "Male",
+    "race": "Feline",
+    "infection": false,
+    "profession": "SPECIAL"
+  },
+  "char_226_hmau": {
+    "name": "Hung",
+    "allegiance": {
+      "nationId": "lungmen",
+      "groupId": null,
+      "teamId": "lee"
+    },
+    "rarity": 5,
+    "cost": [17, 21],
+    "gender": "Male",
+    "race": "Perro",
+    "infection": false,
+    "profession": "TANK"
+  },
+  "char_383_snsant": {
+    "name": "Snowsant",
+    "allegiance": {
+      "nationId": "lungmen",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [13, 15],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": false,
+    "profession": "SPECIAL"
+  },
+  "char_2013_cerber": {
+    "name": "Ceobe",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [19, 21],
+    "gender": "Female",
+    "race": "Perro",
+    "infection": true,
+    "profession": "CASTER"
+  },
+  "char_306_leizi": {
+    "name": "Leizi",
+    "allegiance": {
+      "nationId": "yan",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [29, 32],
+    "gender": "Female",
+    "race": "Kylin",
+    "infection": false,
+    "profession": "CASTER"
+  },
+  "char_385_finlpp": {
+    "name": "Purestream",
+    "allegiance": {
+      "nationId": "yan",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [17, 19],
+    "gender": "Female",
+    "race": "\u00c6gir",
+    "infection": false,
+    "profession": "MEDIC"
+  },
+  "char_222_bpipe": {
+    "name": "Bagpipe",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [11, 13],
+    "gender": "Female",
+    "race": "Vouivre",
+    "infection": false,
+    "profession": "PIONEER"
+  },
+  "char_379_sesa": {
+    "name": "Sesa",
+    "allegiance": {
+      "nationId": "sargon",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [24, 28],
+    "gender": "Male",
+    "race": "Vouivre",
+    "infection": false,
+    "profession": "SNIPER"
+  },
+  "char_337_utage": {
+    "name": "Utage",
+    "allegiance": {
+      "nationId": "higashi",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [20, 24],
+    "gender": "Female",
+    "race": "Unknown",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_252_bibeak": {
+    "name": "Bibeak",
+    "allegiance": {
+      "nationId": "sami",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [18, 22],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_159_peacok": {
+    "gender": "Conviction",
+    "name": "Conviction",
+    "allegiance": {
+      "nationId": "minos",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [14, 16],
+    "race": "Unknown",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_376_therex": {
+    "name": "THRM-EX",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 1,
+    "cost": [3, 3],
+    "gender": "Male",
+    "race": "Robot",
+    "infection": null,
+    "profession": "SPECIAL"
+  },
+  "char_301_cutter": {
+    "name": "Cutter",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [17, 21],
+    "gender": "Female",
+    "race": "Vulpo",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_254_vodfox": {
+    "name": "Shamare",
+    "allegiance": {
+      "nationId": "siracusa",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [10, 12],
+    "gender": "Female",
+    "race": "Vulpo",
+    "infection": true,
+    "profession": "SUPPORT"
+  },
+  "char_333_sidero": {
+    "name": "Sideroca",
+    "allegiance": {
+      "nationId": "minos",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [21, 23],
+    "gender": "Female",
+    "race": "Forte",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_401_elysm": {
+    "name": "Elysium",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [9, 11],
+    "gender": "Male",
+    "race": "Liberi",
+    "infection": true,
+    "profession": "PIONEER"
+  },
+  "char_250_phatom": {
+    "name": "Phantom",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [8, 10],
+    "gender": "Male",
+    "race": "Feline",
+    "infection": true,
+    "profession": "SPECIAL"
+  },
+  "char_400_weedy": {
+    "name": "Weedy",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [19, 21],
+    "gender": "Female",
+    "race": "\u00c6gir",
+    "infection": false,
+    "profession": "SPECIAL"
+  },
+  "char_113_cqbw": {
+    "name": "W",
+    "allegiance": {
+      "nationId": null,
+      "groupId": "babel",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [25, 29],
+    "gender": "Female",
+    "race": "Sarkaz",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_405_absin": {
+    "name": "Absinthe",
+    "allegiance": {
+      "nationId": "ursus",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [20, 22],
+    "gender": "Female",
+    "race": "Ursus",
+    "infection": false,
+    "profession": "CASTER"
+  },
+  "char_373_lionhd": {
+    "name": "Leonhardt",
+    "allegiance": {
+      "nationId": "rim",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [30, 33],
+    "gender": "Male",
+    "race": "Cautus",
+    "infection": true,
+    "profession": "CASTER"
+  },
+  "char_378_asbest": {
+    "name": "Asbestos",
+    "allegiance": {
+      "nationId": "rim",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [21, 25],
+    "gender": "Female",
+    "race": "Savra",
+    "infection": true,
+    "profession": "TANK"
+  },
+  "char_343_tknogi": {
+    "name": "Tsukinogi",
+    "allegiance": {
+      "nationId": "higashi",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [10, 12],
+    "gender": "Female",
+    "race": "Elafia",
+    "infection": true,
+    "profession": "SUPPORT"
+  },
+  "char_197_poca": {
+    "name": "Rosa",
+    "allegiance": {
+      "nationId": "ursus",
+      "groupId": null,
+      "teamId": "student"
+    },
+    "rarity": 6,
+    "cost": [22, 24],
+    "gender": "Female",
+    "race": "Ursus",
+    "infection": false,
+    "profession": "SNIPER"
+  },
+  "char_258_podego": {
+    "name": "Podenco",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [12, 14],
+    "gender": "Female",
+    "race": "Perro",
+    "infection": false,
+    "profession": "SUPPORT"
+  },
+  "char_358_lisa": {
+    "name": "Suzuran",
+    "allegiance": {
+      "nationId": "siracusa",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [14, 16],
+    "gender": "Female",
+    "race": "Vulpo",
+    "infection": true,
+    "profession": "SUPPORT"
+  },
+  "char_328_cammou": {
+    "name": "Click",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [18, 20],
+    "gender": "Female",
+    "race": "Zalak",
+    "infection": false,
+    "profession": "CASTER"
+  },
+  "char_344_beewax": {
+    "name": "Beeswax",
+    "allegiance": {
+      "nationId": "sargon",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [21, 23],
+    "gender": "Female",
+    "race": "Caprinae",
+    "infection": false,
+    "profession": "CASTER"
+  },
+  "char_336_folivo": {
+    "name": "Scene",
+    "allegiance": {
+      "nationId": "sargon",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [9, 11],
+    "gender": "Female",
+    "race": "Pilosa",
+    "infection": true,
+    "profession": "SUPPORT"
+  },
+  "char_294_ayer": {
+    "name": "Ayerscarpe",
+    "allegiance": {
+      "nationId": "rim",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [17, 19],
+    "gender": "Male",
+    "race": "Cautus",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_349_chiave": {
+    "name": "Chiave",
+    "allegiance": {
+      "nationId": "siracusa",
+      "groupId": null,
+      "teamId": "chiave"
+    },
+    "rarity": 5,
+    "cost": [11, 13],
+    "gender": "Male",
+    "race": "Vulpo",
+    "infection": true,
+    "profession": "PIONEER"
+  },
+  "char_345_folnic": {
+    "name": "Folinic",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [19, 21],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": true,
+    "profession": "MEDIC"
+  },
+  "char_293_thorns": {
+    "name": "Thorns",
+    "allegiance": {
+      "nationId": "iberia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [18, 20],
+    "gender": "Male",
+    "race": "\u00c6gir",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_218_cuttle": {
+    "name": "Andreana",
+    "allegiance": {
+      "nationId": "egir",
+      "groupId": "abyssal",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [19, 21],
+    "gender": "Female",
+    "race": "\u00c6gir",
+    "infection": false,
+    "profession": "SNIPER"
+  },
+  "char_272_strong": {
+    "name": "Jaye",
+    "allegiance": {
+      "nationId": "lungmen",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [5, 7],
+    "gender": "Male",
+    "race": "Ursus",
+    "infection": false,
+    "profession": "SPECIAL"
+  },
+  "char_366_acdrop": {
+    "name": "Aciddrop",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [14, 18],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_411_tomimi": {
+    "name": "Tomimi",
+    "allegiance": {
+      "nationId": "sargon",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [20, 22],
+    "gender": "Female",
+    "race": "Archosauria",
+    "infection": false,
+    "profession": "CASTER"
+  },
+  "char_415_flint": {
+    "name": "Flint",
+    "allegiance": {
+      "nationId": "sargon",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [8, 10],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_416_zumama": {
+    "name": "Eunectes",
+    "allegiance": {
+      "nationId": "sargon",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [29, 33],
+    "gender": "Female",
+    "race": "Pythia",
+    "infection": true,
+    "profession": "TANK"
+  },
+  "char_271_spikes": {
+    "name": "Arene",
+    "allegiance": {
+      "nationId": "laterano",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [16, 18],
+    "gender": "Male",
+    "race": "Sankta",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_365_aprl": {
+    "name": "April",
+    "allegiance": {
+      "nationId": "rim",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [11, 13],
+    "gender": "Female",
+    "race": "Cautus",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_388_mint": {
+    "name": "Mint",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [23, 25],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": true,
+    "profession": "CASTER"
+  },
+  "char_350_surtr": {
+    "name": "Surtr",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [19, 21],
+    "gender": "Female",
+    "race": "Sarkaz",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_381_bubble": {
+    "name": "Bubble",
+    "allegiance": {
+      "nationId": "sargon",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [17, 21],
+    "gender": "Female",
+    "race": "Cerato",
+    "infection": true,
+    "profession": "TANK"
+  },
+  "char_346_aosta": {
+    "name": "Aosta",
+    "allegiance": {
+      "nationId": "siracusa",
+      "groupId": null,
+      "teamId": "chiave"
+    },
+    "rarity": 5,
+    "cost": [28, 31],
+    "gender": "Male",
+    "race": "Lupo",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_265_sophia": {
+    "name": "Whislash",
+    "allegiance": {
+      "nationId": "kazimierz",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [16, 18],
+    "gender": "Female",
+    "race": "Kuranta",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_423_blemsh": {
+    "name": "Blemishine",
+    "allegiance": {
+      "nationId": "kazimierz",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [18, 22],
+    "gender": "Female",
+    "race": "Kuranta",
+    "infection": false,
+    "profession": "TANK"
+  },
+  "char_311_mudrok": {
+    "name": "Mudrock",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [32, 36],
+    "gender": "Female",
+    "race": "Sarkaz",
+    "infection": true,
+    "profession": "TANK"
+  },
+  "char_391_rosmon": {
+    "name": "Rosmontis",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": "elite",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [23, 25],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_436_whispr": {
+    "name": "Whisperain",
+    "allegiance": {
+      "nationId": "iberia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [18, 20],
+    "gender": "Female",
+    "race": "\u00c6gir",
+    "infection": false,
+    "profession": "MEDIC"
+  },
+  "char_347_jaksel": {
+    "name": "Jackie",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [7, 9],
+    "gender": "Female",
+    "race": "Perro",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_264_f12yin": {
+    "name": "Mountain",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [9, 11],
+    "gender": "Male",
+    "race": "Feline",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_214_kafka": {
+    "name": "Kafka",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [7, 9],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": true,
+    "profession": "SPECIAL"
+  },
+  "char_451_robin": {
+    "name": "Robin",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [11, 13],
+    "gender": "Female",
+    "race": "Anaty",
+    "infection": false,
+    "profession": "SPECIAL"
+  },
+  "char_440_pinecn": {
+    "name": "Pinecone",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [27, 30],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": false,
+    "profession": "SNIPER"
+  },
+  "char_332_archet": {
+    "name": "Archetto",
+    "allegiance": {
+      "nationId": "laterano",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [12, 14],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": false,
+    "profession": "SNIPER"
+  },
+  "char_338_iris": {
+    "name": "Iris",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [22, 24],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": false,
+    "profession": "CASTER"
+  },
+  "char_452_bstalk": {
+    "name": "Beanstalk",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [11, 13],
+    "gender": "Female",
+    "race": "Reproba",
+    "infection": false,
+    "profession": "PIONEER"
+  },
+  "char_402_tuye": {
+    "name": "Tuye",
+    "allegiance": {
+      "nationId": "sargon",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [19, 21],
+    "gender": "Female",
+    "race": "Forte",
+    "infection": true,
+    "profession": "MEDIC"
+  },
+  "char_455_nothin": {
+    "name": "Mr. Nothing",
+    "allegiance": {
+      "nationId": "yan",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [6, 8],
+    "gender": "Male",
+    "race": "Liberi",
+    "infection": false,
+    "profession": "SPECIAL"
+  },
+  "char_362_saga": {
+    "name": "Saga",
+    "allegiance": {
+      "nationId": "higashi",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [12, 14],
+    "gender": "Female",
+    "race": "Perro",
+    "infection": false,
+    "profession": "PIONEER"
+  },
+  "char_2015_dusk": {
+    "name": "Dusk",
+    "allegiance": {
+      "nationId": "yan",
+      "groupId": "sui",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [31, 34],
+    "gender": "Female",
+    "race": "Unknown",
+    "infection": false,
+    "profession": "CASTER"
+  },
+  "char_1011_lava2": {
+    "name": "Lava the Purgatory",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [32, 35],
+    "gender": "Female",
+    "race": "Sarkaz",
+    "infection": true,
+    "profession": "CASTER"
+  },
+  "char_456_ash": {
+    "name": "Ash",
+    "allegiance": {
+      "nationId": null,
+      "groupId": null,
+      "teamId": "rainbow"
+    },
+    "rarity": 6,
+    "cost": [12, 14],
+    "gender": "Female",
+    "race": "Unknown",
+    "infection": false,
+    "profession": "SNIPER"
+  },
+  "char_457_blitz": {
+    "name": "Blitz",
+    "allegiance": {
+      "nationId": null,
+      "groupId": null,
+      "teamId": "rainbow"
+    },
+    "rarity": 5,
+    "cost": [18, 22],
+    "gender": "Male",
+    "race": "Unknown",
+    "infection": false,
+    "profession": "TANK"
+  },
+  "char_458_rfrost": {
+    "name": "Frost",
+    "allegiance": {
+      "nationId": null,
+      "groupId": null,
+      "teamId": "rainbow"
+    },
+    "rarity": 5,
+    "cost": [9, 11],
+    "gender": "Female",
+    "race": "Unknown",
+    "infection": false,
+    "profession": "SPECIAL"
+  },
+  "char_459_tachak": {
+    "name": "Tachanka",
+    "allegiance": {
+      "nationId": null,
+      "groupId": null,
+      "teamId": "rainbow"
+    },
+    "rarity": 5,
+    "cost": [20, 24],
+    "gender": "Male",
+    "race": "Unknown",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_472_pasngr": {
+    "name": "Passenger",
+    "allegiance": {
+      "nationId": "sargon",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [30, 33],
+    "gender": "Male",
+    "race": "Liberi",
+    "infection": true,
+    "profession": "CASTER"
+  },
+  "char_363_toddi": {
+    "name": "Toddifons",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [21, 23],
+    "gender": "Female",
+    "race": "Vouivre",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_304_zebra": {
+    "name": "Heavyrain",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [20, 24],
+    "gender": "Female",
+    "race": "Kuranta",
+    "infection": false,
+    "profession": "TANK"
+  },
+  "char_1012_skadi2": {
+    "name": "Skadi the Corrupting Heart",
+    "allegiance": {
+      "nationId": "egir",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [6, 8],
+    "gender": "Female",
+    "race": "Unknown",
+    "infection": false,
+    "profession": "SUPPORT"
+  },
+  "char_003_kalts": {
+    "name": "Kal'tsit",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [18, 20],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": true,
+    "profession": "MEDIC"
+  },
+  "char_474_glady": {
+    "name": "Gladiia",
+    "allegiance": {
+      "nationId": "egir",
+      "groupId": "abyssal",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [14, 16],
+    "gender": "Female",
+    "race": "Unknown",
+    "infection": false,
+    "profession": "SPECIAL"
+  },
+  "char_475_akafyu": {
+    "name": "Akafuyu",
+    "allegiance": {
+      "nationId": "higashi",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [21, 25],
+    "gender": "Female",
+    "race": "\u00c6gir",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_426_billro": {
+    "name": "Carnelian",
+    "allegiance": {
+      "nationId": "leithanien",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [22, 24],
+    "gender": "Female",
+    "race": "Caprinae",
+    "infection": false,
+    "profession": "CASTER"
+  },
+  "char_478_kirara": {
+    "name": "Kirara",
+    "allegiance": {
+      "nationId": "higashi",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [18, 20],
+    "gender": "Female",
+    "race": "\u00c6gir",
+    "infection": true,
+    "profession": "SPECIAL"
+  },
+  "char_369_bena": {
+    "name": "Bena",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [15, 17],
+    "gender": "Female",
+    "race": "Caprinae",
+    "infection": false,
+    "profession": "SPECIAL"
+  },
+  "char_469_indigo": {
+    "name": "Indigo",
+    "allegiance": {
+      "nationId": "iberia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [21, 23],
+    "gender": "Female",
+    "race": "Pythia",
+    "infection": false,
+    "profession": "CASTER"
+  },
+  "char_485_pallas": {
+    "name": "Pallas",
+    "allegiance": {
+      "nationId": "minos",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [15, 17],
+    "gender": "Female",
+    "race": "Forte",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_421_crow": {
+    "name": "La Pluma",
+    "allegiance": {
+      "nationId": "bolivar",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [19, 22],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_437_mizuki": {
+    "name": "Mizuki",
+    "allegiance": {
+      "nationId": "higashi",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [19, 21],
+    "gender": "Male",
+    "race": "\u00c6gir",
+    "infection": false,
+    "profession": "SPECIAL"
+  },
+  "char_1013_chen2": {
+    "name": "Ch'en the Holungday",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [29, 32],
+    "gender": "Female",
+    "race": "Lung",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_486_takila": {
+    "name": "Tequila",
+    "allegiance": {
+      "nationId": "bolivar",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [11, 13],
+    "gender": "Male",
+    "race": "Perro",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_479_sleach": {
+    "name": "Saileach",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [10, 12],
+    "gender": "Female",
+    "race": "Vouivre",
+    "infection": false,
+    "profession": "PIONEER"
+  },
+  "char_473_mberry": {
+    "name": "Mulberry",
+    "allegiance": {
+      "nationId": "yan",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [13, 15],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": true,
+    "profession": "MEDIC"
+  },
+  "char_484_robrta": {
+    "name": "Roberta",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [13, 17],
+    "gender": "Female",
+    "race": "Anaty",
+    "infection": false,
+    "profession": "SUPPORT"
+  },
+  "char_430_fartth": {
+    "name": "Fartooth",
+    "allegiance": {
+      "nationId": "kazimierz",
+      "groupId": "pinus",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [20, 22],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_431_ashlok": {
+    "name": "Ashlock",
+    "allegiance": {
+      "nationId": "kazimierz",
+      "groupId": "pinus",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [23, 27],
+    "gender": "Female",
+    "race": "Zalak",
+    "infection": true,
+    "profession": "TANK"
+  },
+  "char_1014_nearl2": {
+    "name": "Nearl the Radiant Knight",
+    "allegiance": {
+      "nationId": "kazimierz",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [17, 19],
+    "gender": "Female",
+    "race": "Kuranta",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_420_flamtl": {
+    "name": "Flametail",
+    "allegiance": {
+      "nationId": "kazimierz",
+      "groupId": "pinus",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [12, 14],
+    "gender": "Female",
+    "race": "Zalak",
+    "infection": true,
+    "profession": "PIONEER"
+  },
+  "char_496_wildmn": {
+    "name": "Wild Mane",
+    "allegiance": {
+      "nationId": "kazimierz",
+      "groupId": "pinus",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [12, 14],
+    "gender": "Female",
+    "race": "Kuranta",
+    "infection": true,
+    "profession": "PIONEER"
+  },
+  "char_4000_jnight": {
+    "name": "'Justice Knight'",
+    "allegiance": {
+      "nationId": "kazimierz",
+      "groupId": "pinus",
+      "teamId": null
+    },
+    "rarity": 1,
+    "cost": [3, 3],
+    "gender": "Female",
+    "race": "Robot",
+    "infection": null,
+    "profession": "SNIPER"
+  },
+  "char_489_serum": {
+    "name": "Corroserum",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [30, 33],
+    "gender": "Male",
+    "race": "Pythia",
+    "infection": false,
+    "profession": "CASTER"
+  },
+  "char_449_glider": {
+    "name": "Honeyberry",
+    "allegiance": {
+      "nationId": "rim",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [13, 15],
+    "gender": "Female",
+    "race": "Zalak",
+    "infection": false,
+    "profession": "MEDIC"
+  },
+  "char_4004_pudd": {
+    "name": "Pudding",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [28, 31],
+    "gender": "Female",
+    "race": "\u00c6gir",
+    "infection": true,
+    "profession": "CASTER"
+  },
+  "char_206_gnosis": {
+    "name": "Gnosis",
+    "allegiance": {
+      "nationId": "kjerag",
+      "groupId": "karlan",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [11, 13],
+    "gender": "Male",
+    "race": "Liberi",
+    "infection": false,
+    "profession": "SUPPORT"
+  },
+  "char_422_aurora": {
+    "name": "Aurora",
+    "allegiance": {
+      "nationId": "kjerag",
+      "groupId": "karlan",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [28, 32],
+    "gender": "Female",
+    "race": "Ursus",
+    "infection": true,
+    "profession": "TANK"
+  },
+  "char_4019_ncdeer": {
+    "name": "Nine-Colored Deer",
+    "allegiance": {
+      "nationId": "yan",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [9, 11],
+    "gender": "Female",
+    "race": "Elafia",
+    "infection": false,
+    "profession": "SUPPORT"
+  },
+  "char_4013_kjera": {
+    "name": "Kjera",
+    "allegiance": {
+      "nationId": "kjerag",
+      "groupId": "karlan",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [21, 23],
+    "gender": "Female",
+    "race": "Unknown",
+    "infection": false,
+    "profession": "CASTER"
+  },
+  "char_4025_aprot2": {
+    "name": "Shalem",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [21, 25],
+    "gender": "Male",
+    "race": "Pythia",
+    "infection": true,
+    "profession": "TANK"
+  },
+  "char_476_blkngt": {
+    "name": "Blacknight",
+    "allegiance": {
+      "nationId": "rim",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [12, 14],
+    "gender": "Female",
+    "race": "Savra",
+    "infection": true,
+    "profession": "PIONEER"
+  },
+  "char_377_gdglow": {
+    "name": "Goldenglow",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [20, 22],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": true,
+    "profession": "CASTER"
+  },
+  "char_492_quercu": {
+    "name": "Quercus",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [10, 12],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": false,
+    "profession": "SUPPORT"
+  },
+  "char_2023_ling": {
+    "name": "Ling",
+    "allegiance": {
+      "nationId": "yan",
+      "groupId": "sui",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [10, 12],
+    "gender": "Female",
+    "race": "Unknown",
+    "infection": false,
+    "profession": "SUPPORT"
+  },
+  "char_322_lmlee": {
+    "name": "Lee",
+    "allegiance": {
+      "nationId": "lungmen",
+      "groupId": null,
+      "teamId": "lee"
+    },
+    "rarity": 6,
+    "cost": [7, 9],
+    "gender": "Male",
+    "race": "Lung",
+    "infection": false,
+    "profession": "SPECIAL"
+  },
+  "char_1021_kroos2": {
+    "name": "Kroos the Keen Glint",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [13, 15],
+    "gender": "Female",
+    "race": "Cautus",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_300_phenxi": {
+    "name": "Fiammetta",
+    "allegiance": {
+      "nationId": "laterano",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [25, 29],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": false,
+    "profession": "SNIPER"
+  },
+  "char_4016_kazema": {
+    "name": "Kazemaru",
+    "allegiance": {
+      "nationId": "higashi",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [13, 15],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": false,
+    "profession": "SPECIAL"
+  },
+  "char_4036_forcer": {
+    "name": "Enforcer",
+    "allegiance": {
+      "nationId": "laterano",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [20, 22],
+    "gender": "Male",
+    "race": "Sankta",
+    "infection": false,
+    "profession": "SPECIAL"
+  },
+  "char_4039_horn": {
+    "name": "Horn",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [24, 28],
+    "gender": "Female",
+    "race": "Lupo",
+    "infection": false,
+    "profession": "TANK"
+  },
+  "char_4040_rockr": {
+    "name": "Rockrock",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [19, 21],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": false,
+    "profession": "CASTER"
+  },
+  "char_4041_chnut": {
+    "name": "Chestnut",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [12, 14],
+    "gender": "Male",
+    "race": "Durin",
+    "infection": false,
+    "profession": "MEDIC"
+  },
+  "char_4045_heidi": {
+    "name": "Heidi",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [7, 9],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": false,
+    "profession": "SUPPORT"
+  },
+  "char_1023_ghost2": {
+    "name": "Specter the Unchained",
+    "allegiance": {
+      "nationId": "egir",
+      "groupId": "abyssal",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [14, 16],
+    "gender": "Female",
+    "race": "\u00c6gir",
+    "infection": true,
+    "profession": "SPECIAL"
+  },
+  "char_4009_irene": {
+    "name": "Irene",
+    "allegiance": {
+      "nationId": "iberia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [19, 23],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_4042_lumen": {
+    "name": "Lumen",
+    "allegiance": {
+      "nationId": "iberia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [21, 23],
+    "gender": "Male",
+    "race": "\u00c6gir",
+    "infection": false,
+    "profession": "MEDIC"
+  },
+  "char_4043_erato": {
+    "name": "Erato",
+    "allegiance": {
+      "nationId": "minos",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [21, 23],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": false,
+    "profession": "SNIPER"
+  },
+  "char_433_windft": {
+    "name": "Windflit",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [14, 18],
+    "gender": "Male",
+    "race": "Perro",
+    "infection": false,
+    "profession": "SUPPORT"
+  },
+  "char_4046_ebnhlz": {
+    "name": "Ebenholz",
+    "allegiance": {
+      "nationId": "leithanien",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [23, 25],
+    "gender": "Male",
+    "race": "Caprinae",
+    "infection": true,
+    "profession": "CASTER"
+  },
+  "char_1024_hbisc2": {
+    "name": "Hibiscus the Purifier",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [15, 17],
+    "gender": "Female",
+    "race": "Sarkaz",
+    "infection": true,
+    "profession": "MEDIC"
+  },
+  "char_4047_pianst": {
+    "name": "Czerny",
+    "allegiance": {
+      "nationId": "leithanien",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [23, 27],
+    "gender": "Male",
+    "race": "Elafia",
+    "infection": true,
+    "profession": "TANK"
+  },
+  "char_4048_doroth": {
+    "name": "Dorothy",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": "rhine",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [10, 12],
+    "gender": "Female",
+    "race": "Zalak",
+    "infection": false,
+    "profession": "SPECIAL"
+  },
+  "char_1027_greyy2": {
+    "name": "Greyy the Lightningbearer",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [22, 24],
+    "gender": "Male",
+    "race": "Perro",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_135_halo": {
+    "name": "Astgenne",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": "rhine",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [31, 34],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": true,
+    "profession": "CASTER"
+  },
+  "char_1026_gvial2": {
+    "name": "Gavial the Invincible",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [20, 24],
+    "gender": "Female",
+    "race": "Archosauria",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_4055_bgsnow": {
+    "name": "Poz\u00ebmka",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [16, 20],
+    "gender": "Female",
+    "race": "Lupo",
+    "infection": false,
+    "profession": "SNIPER"
+  },
+  "char_497_ctable": {
+    "name": "Cantabile",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [8, 10],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": true,
+    "profession": "PIONEER"
+  },
+  "char_4054_malist": {
+    "name": "Minimalist",
+    "allegiance": {
+      "nationId": "sargon",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [21, 23],
+    "gender": "Male",
+    "race": "Durin",
+    "infection": true,
+    "profession": "CASTER"
+  },
+  "char_4067_lolxh": {
+    "name": "Luo Xiaohei",
+    "allegiance": {
+      "nationId": "yan",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [15, 17],
+    "gender": "Male",
+    "race": "Feline",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_4064_mlynar": {
+    "name": "M\u0142ynar",
+    "allegiance": {
+      "nationId": "kazimierz",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [10, 12],
+    "gender": "Male",
+    "race": "Kuranta",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_4032_provs": {
+    "name": "Proviso",
+    "allegiance": {
+      "nationId": "kazimierz",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [13, 15],
+    "gender": "Female",
+    "race": "Kuranta",
+    "infection": false,
+    "profession": "SUPPORT"
+  },
+  "char_4066_highmo": {
+    "name": "Highmore",
+    "allegiance": {
+      "nationId": "iberia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [19, 22],
+    "gender": "Female",
+    "race": "\u00c6gir",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_157_dagda": {
+    "name": "Dagda",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": "glasgow",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [10, 12],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_4062_totter": {
+    "name": "Totter",
+    "allegiance": {
+      "nationId": "sargon",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [20, 22],
+    "gender": "Male",
+    "race": "Liberi",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_4071_peper": {
+    "name": "Paprika",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [16, 18],
+    "gender": "Female",
+    "race": "Sarkaz",
+    "infection": true,
+    "profession": "MEDIC"
+  },
+  "char_4072_ironmn": {
+    "name": "Stainless",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [15, 19],
+    "gender": "Male",
+    "race": "Feline",
+    "infection": false,
+    "profession": "SUPPORT"
+  },
+  "char_4063_quartz": {
+    "name": "Quartz",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [18, 22],
+    "gender": "Female",
+    "race": "Lupo",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_4014_lunacu": {
+    "name": "Lunacub",
+    "allegiance": {
+      "nationId": "siracusa",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [19, 21],
+    "gender": "Female",
+    "race": "Lupo",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_466_qanik": {
+    "name": "Qanipalaat",
+    "allegiance": {
+      "nationId": "sami",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [18, 20],
+    "gender": "Male",
+    "race": "Vulpo",
+    "infection": false,
+    "profession": "CASTER"
+  },
+  "char_427_vigil": {
+    "name": "Vigil",
+    "allegiance": {
+      "nationId": "siracusa",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [15, 17],
+    "gender": "Male",
+    "race": "Lupo",
+    "infection": false,
+    "profession": "PIONEER"
+  },
+  "char_4065_judge": {
+    "name": "Penance",
+    "allegiance": {
+      "nationId": "siracusa",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [32, 36],
+    "gender": "Female",
+    "race": "Lupo",
+    "infection": false,
+    "profession": "TANK"
+  },
+  "char_1028_texas2": {
+    "name": "Texas the Omertosa",
+    "allegiance": {
+      "nationId": "lungmen",
+      "groupId": "penguin",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [8, 10],
+    "gender": "Female",
+    "race": "Lupo",
+    "infection": false,
+    "profession": "SPECIAL"
+  },
+  "char_4017_puzzle": {
+    "name": "Puzzle",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [10, 12],
+    "gender": "Male",
+    "race": "Vouivre",
+    "infection": true,
+    "profession": "PIONEER"
+  },
+  "char_297_hamoni": {
+    "name": "Harmonie",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": "dublinn",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [22, 24],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": false,
+    "profession": "CASTER"
+  },
+  "char_1020_reed2": {
+    "name": "Reed the Flame Shadow",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": "dublinn",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [15, 17],
+    "gender": "Female",
+    "race": "Draco",
+    "infection": true,
+    "profession": "MEDIC"
+  },
+  "char_4080_lin": {
+    "name": "Lin",
+    "allegiance": {
+      "nationId": "lungmen",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [22, 24],
+    "gender": "Female",
+    "race": "Zalak",
+    "infection": false,
+    "profession": "CASTER"
+  },
+  "char_4082_qiubai": {
+    "name": "Qiubai",
+    "allegiance": {
+      "nationId": "yan",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [18, 20],
+    "gender": "Female",
+    "race": "Elafia",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_493_firwhl": {
+    "name": "Firewhistle",
+    "allegiance": {
+      "nationId": "rim",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [23, 27],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": false,
+    "profession": "TANK"
+  },
+  "char_4083_chimes": {
+    "name": "Wind Chimes",
+    "allegiance": {
+      "nationId": "yan",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [19, 23],
+    "gender": "Female",
+    "race": "Forte",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_2024_chyue": {
+    "name": "Chongyue",
+    "allegiance": {
+      "nationId": "yan",
+      "groupId": "sui",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [9, 11],
+    "gender": "Male",
+    "race": "Unknown",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_4078_bdhkgt": {
+    "name": "Jieyun",
+    "allegiance": {
+      "nationId": "yan",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [26, 30],
+    "gender": "Female",
+    "race": "Anasa",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_1029_yato2": {
+    "name": "Kirin R Yato",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": "action4"
+    },
+    "rarity": 6,
+    "cost": [8, 10],
+    "gender": "Female",
+    "race": "Oni",
+    "infection": true,
+    "profession": "SPECIAL"
+  },
+  "char_4077_palico": {
+    "gender": "Unknown",
+    "name": "Terra Research Commission",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 1,
+    "cost": [3, 3],
+    "race": "Unknown",
+    "infection": false,
+    "profession": "SNIPER"
+  },
+  "char_1030_noirc2": {
+    "name": "Rathalos S Noir Corne",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": "action4"
+    },
+    "rarity": 5,
+    "cost": [21, 25],
+    "gender": "Male",
+    "race": "Oni",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_4091_ulika": {
+    "name": "U-Official",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 1,
+    "cost": [3, 3],
+    "gender": "Female",
+    "race": "Zalak",
+    "infection": false,
+    "profession": "SUPPORT"
+  },
+  "char_491_humus": {
+    "name": "Humus",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [18, 21],
+    "gender": "Male",
+    "race": "Forte",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_154_morgan": {
+    "name": "Morgan",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": "glasgow",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [18, 20],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_464_cement": {
+    "name": "Cement",
+    "allegiance": {
+      "nationId": "rim",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [28, 32],
+    "gender": "Female",
+    "race": "Zalak",
+    "infection": false,
+    "profession": "TANK"
+  },
+  "char_4087_ines": {
+    "name": "Ines",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [9, 11],
+    "gender": "Female",
+    "race": "Unknown",
+    "infection": true,
+    "profession": "PIONEER"
+  },
+  "char_1031_slent2": {
+    "name": "Silence the Paradigmatic",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": "rhine",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [13, 15],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": true,
+    "profession": "SUPPORT"
+  },
+  "char_4006_melnte": {
+    "name": "Melanite",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [15, 19],
+    "gender": "Female",
+    "race": "Pythia",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_4027_heyak": {
+    "name": "Ho'olheyak",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [19, 21],
+    "gender": "Female",
+    "race": "Unknown",
+    "infection": false,
+    "profession": "CASTER"
+  },
+  "char_249_mlyss": {
+    "name": "Muelsyse",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": "rhine",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [13, 15],
+    "gender": "Female",
+    "race": "Elf",
+    "infection": false,
+    "profession": "PIONEER"
+  },
+  "char_4093_frston": {
+    "name": "Friston-3",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 1,
+    "cost": [3, 3],
+    "gender": "Male",
+    "race": "Robot",
+    "infection": null,
+    "profession": "TANK"
+  },
+  "char_4015_spuria": {
+    "name": "Spuria",
+    "allegiance": {
+      "nationId": "laterano",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [10, 12],
+    "gender": "Female",
+    "race": "Sankta",
+    "infection": false,
+    "profession": "SPECIAL"
+  },
+  "char_1032_excu2": {
+    "name": "Executor the Ex Foedere",
+    "allegiance": {
+      "nationId": "laterano",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [20, 23],
+    "gender": "Male",
+    "race": "Sankta",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_498_inside": {
+    "name": "Insider",
+    "allegiance": {
+      "nationId": "laterano",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [13, 15],
+    "gender": "Male",
+    "race": "Sankta",
+    "infection": false,
+    "profession": "SNIPER"
+  },
+  "char_2012_typhon": {
+    "name": "Typhon",
+    "allegiance": {
+      "nationId": "sami",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [22, 24],
+    "gender": "Female",
+    "race": "Sarkaz",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_341_sntlla": {
+    "name": "Santalla",
+    "allegiance": {
+      "nationId": "sami",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [30, 33],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": true,
+    "profession": "CASTER"
+  },
+  "char_4102_threye": {
+    "name": "Valarqvin",
+    "allegiance": {
+      "nationId": "sami",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [13, 15],
+    "gender": "Female",
+    "race": "Sarkaz",
+    "infection": true,
+    "profession": "SUPPORT"
+  },
+  "char_1016_agoat2": {
+    "name": "Eyjafjalla the Hv\u00edt Aska",
+    "allegiance": {
+      "nationId": "leithanien",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [14, 16],
+    "gender": "Female",
+    "race": "Caprinae",
+    "infection": true,
+    "profession": "MEDIC"
+  },
+  "char_1033_swire2": {
+    "name": "Swire the Elegant Wit",
+    "allegiance": {
+      "nationId": "lungmen",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [7, 9],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": false,
+    "profession": "SPECIAL"
+  },
+  "char_488_buildr": {
+    "name": "Poncirus",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": "siesta",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [11, 13],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": true,
+    "profession": "PIONEER"
+  },
+  "char_4106_bryota": {
+    "name": "Bryophyta",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": "siesta",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [16, 18],
+    "gender": "Male",
+    "race": "Liberi",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_1034_jesca2": {
+    "name": "Jessica the Liberated",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": "blacksteel",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [19, 23],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": false,
+    "profession": "TANK"
+  },
+  "char_4105_almond": {
+    "name": "Almond",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": "blacksteel",
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [11, 13],
+    "gender": "Female",
+    "race": "Perro",
+    "infection": true,
+    "profession": "SPECIAL"
+  },
+  "char_4104_coldst": {
+    "name": "Coldshot",
+    "allegiance": {
+      "nationId": "columbia",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [17, 21],
+    "gender": "Female",
+    "race": "Elafia",
+    "infection": false,
+    "profession": "SNIPER"
+  },
+  "char_4107_vrdant": {
+    "name": "Verdant",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [12, 14],
+    "gender": "Male",
+    "race": "Pythia",
+    "infection": true,
+    "profession": "SPECIAL"
+  },
+  "char_494_vendla": {
+    "name": "Vendela",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [15, 17],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": true,
+    "profession": "MEDIC"
+  },
+  "char_4110_delphn": {
+    "name": "Delphine",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [24, 26],
+    "gender": "Female",
+    "race": "Feline",
+    "infection": false,
+    "profession": "CASTER"
+  },
+  "char_4088_hodrer": {
+    "name": "Hoederer",
+    "allegiance": {
+      "nationId": "rhodes",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [20, 24],
+    "gender": "Male",
+    "race": "Sarkaz",
+    "infection": true,
+    "profession": "WARRIOR"
+  },
+  "char_4109_baslin": {
+    "name": "Bassline",
+    "allegiance": {
+      "nationId": "leithanien",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [17, 21],
+    "gender": "Male",
+    "race": "Lupo",
+    "infection": false,
+    "profession": "TANK"
+  },
+  "char_4100_caper": {
+    "name": "Caper",
+    "allegiance": {
+      "nationId": "bolivar",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 4,
+    "cost": [12, 14],
+    "gender": "Female",
+    "race": "Cautus",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_4011_lessng": {
+    "name": "Lessing",
+    "allegiance": {
+      "nationId": "leithanien",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [19, 21],
+    "gender": "Male",
+    "race": "Caprinae",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_499_kaitou": {
+    "name": "Diamante",
+    "allegiance": {
+      "nationId": "leithanien",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [18, 20],
+    "gender": "Male",
+    "race": "Caprinae",
+    "infection": true,
+    "profession": "CASTER"
+  },
+  "char_4098_vvana": {
+    "name": "Viviana",
+    "allegiance": {
+      "nationId": "leithanien",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [19, 21],
+    "gender": "Female",
+    "race": "Elafia",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_245_cello": {
+    "name": "Virtuosa",
+    "allegiance": {
+      "nationId": "laterano",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [14, 16],
+    "gender": "Female",
+    "race": "Sankta",
+    "infection": false,
+    "profession": "SUPPORT"
+  },
+  "char_194_leto": {
+    "name": "Leto",
+    "allegiance": {
+      "nationId": "ursus",
+      "groupId": null,
+      "teamId": "student"
+    },
+    "rarity": 5,
+    "cost": [17, 19],
+    "gender": "Female",
+    "race": "Ursus",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_4116_blkkgt": {
+    "name": "Degenbrecher",
+    "allegiance": {
+      "nationId": "kjerag",
+      "groupId": "karlan",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [19, 23],
+    "gender": "Female",
+    "race": "Caprinae",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_4114_harold": {
+    "name": "Harold",
+    "allegiance": {
+      "nationId": "victoria",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [15, 17],
+    "gender": "Male",
+    "race": "Feline",
+    "infection": false,
+    "profession": "MEDIC"
+  },
+  "char_4081_warmy": {
+    "name": "Warmy",
+    "allegiance": {
+      "nationId": "rim",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [18, 20],
+    "gender": "Female",
+    "race": "Cautus",
+    "infection": true,
+    "profession": "CASTER"
+  },
+  "char_4117_ray": {
+    "name": "Ray",
+    "allegiance": {
+      "nationId": "rim",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [17, 21],
+    "gender": "Female",
+    "race": "Cautus",
+    "infection": true,
+    "profession": "SNIPER"
+  },
+  "char_4121_zuole": {
+    "name": "Zuo Le",
+    "allegiance": {
+      "nationId": "yan",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [22, 26],
+    "gender": "Male",
+    "race": "Pythia",
+    "infection": false,
+    "profession": "WARRIOR"
+  },
+  "char_4023_rfalcn": {
+    "name": "Kestrel",
+    "allegiance": {
+      "nationId": "sargon",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [11, 13],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": true,
+    "profession": "PIONEER"
+  },
+  "char_2025_shu": {
+    "name": "Shu",
+    "allegiance": {
+      "nationId": "yan",
+      "groupId": "sui",
+      "teamId": null
+    },
+    "rarity": 6,
+    "cost": [18, 22],
+    "gender": "Female",
+    "race": "Unknown",
+    "infection": false,
+    "profession": "TANK"
+  },
+  "char_4119_wanqin": {
+    "name": "Wanqing",
+    "allegiance": {
+      "nationId": "yan",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [11, 13],
+    "gender": "Male",
+    "race": "Forte",
+    "infection": false,
+    "profession": "PIONEER"
+  },
+  "char_4122_grabds": {
+    "name": "Grain Buds",
+    "allegiance": {
+      "nationId": "yan",
+      "groupId": null,
+      "teamId": null
+    },
+    "rarity": 5,
+    "cost": [13, 15],
+    "gender": "Female",
+    "race": "Liberi",
+    "infection": false,
+    "profession": "SUPPORT"
+  }
+}
